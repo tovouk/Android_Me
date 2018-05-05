@@ -26,10 +26,6 @@ import com.example.android.android_me.data.AndroidImageAssets;
 // This activity will display a custom Android image composed of three body parts: head, body, and legs
 public class AndroidMeActivity extends AppCompatActivity {
 
-    // After creating the fragment..
-    // TODO (4) Create a new Activity named MainActivity and a corresponding layout file that displays a MasterListFragment
-        // Remember, to display a static fragment in a layout file, use the <fragment> tag
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
